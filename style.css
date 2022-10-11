@@ -1,0 +1,20 @@
+/* .padre-flex {
+    display: flex;
+    background-color: lightcoral;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+  }
+  .padre-flex div{
+   background-color: grey;
+   width: 100px;
+   margin: 10px;
+  
+  }
+   */
+   .grid{
+    display: grid;
+    grid-template-columns: 300px 100px 100px 100px;
+    grid-template-rows: 40px ;
+    border: 2px solid gray;
+   }
